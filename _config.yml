@@ -76,3 +76,9 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+# ===== EXTRAS ====
+
+# prose.io specific configurations
+prose:
+  media: 'media'
